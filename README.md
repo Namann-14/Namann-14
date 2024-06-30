@@ -1,5 +1,4 @@
-![dp](images (1).jpg)
-
+![images (1)](https://github.com/Namann-14/Namann-14/assets/156062917/e93b7e45-931e-40a3-ba75-982609a0e5a2)
 <h1 align="center">Hi, I'm Naman!</h1>
 <h3 align="left"> Someone who enjoys tinkering with various things. Although I haven't made anything yet, I'm hoping to start soon :)</h3>
 
