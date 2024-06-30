@@ -1,3 +1,5 @@
+![dp](images (1).jpg)
+
 <h1 align="center">Hi, I'm Naman!</h1>
 <h3 align="left"> Someone who enjoys tinkering with various things. Although I haven't made anything yet, I'm hoping to start soon :)</h3>
 
