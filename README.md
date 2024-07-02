@@ -1,4 +1,6 @@
-![images (1)](https://github.com/Namann-14/Namann-14/assets/156062917/e93b7e45-931e-40a3-ba75-982609a0e5a2)
+
+![WhatsApp Image 2024-07-03 at 12 11 13 AM (1)](https://github.com/Namann-14/Namann-14/assets/156062917/3c93db1d-7594-4923-9d38-e226541cdba5)
+
 <h1 align="center">Hi, I'm Naman!</h1>
 <h3 align="left"> Someone who enjoys tinkering with various things. Although I haven't made anything yet, I'm hoping to start soon :)</h3>
 
