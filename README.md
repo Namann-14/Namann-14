@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namann-14&label=Profile%20views&color=0e75b6&style=flat" alt="namann-14" /> </p>
 
 
-- 🔭 I’m currently **Not working on anything!**
+- 🔭 I’m currently **A project- CryptoWatch**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, DSA**
 
 
 <h3 align="left">Connect with me:</h3>
